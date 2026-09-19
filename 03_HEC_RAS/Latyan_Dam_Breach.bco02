@@ -1,0 +1,70 @@
+ 
+                                              HEC-RAS - River Analysis System
+ 
+ 
+Project File:  C:\Users\Mojtaba\Documents\GitHub\latyan-dam-breach-hec-ras\03_HEC_RAS\Latyan_Dam_Breach.prj
+ 
+Project Name:  Latyan_Dam_Breach
+ 
+ 
+Plan Name:     Latyan Dam Breach - Initial Test
+ 
+Short ID:      LB_Test01
+ 
+
+Starting Time:   10Sep2026 2400
+
+Ending Time:     11Sep2026 0600
+
+
+                ################################################
+                #                                              #
+                #                                              #
+                #       1D and 2D Unsteady Flow Module         #
+                #                                              #
+                #                                              #
+                #          HEC-RAS 6.3.1 October 2022          #
+                #                                              #
+                #             19SEP26 at 14:05:54              #
+                #                                              #
+                ################################################
+                
+ 
+ 
+ 
+
+         US Inflow      DS Outflow       Lat Hydro        SA Hydro     Groundwater      Diversions   Precip Excess
+         *********      **********       *********        ********     ***********      **********   *************
+                                                                                                                                  
+
+    Start 1D Reach  Final 1D Reach   Starting SA's      Final SA's
+    **************  **************   *************      **********
+                                            75169.           41.39
+
+
+
+                 ***   Volume Accounting for 2D Flow Area in 1000 m^3   ***
+
+           2D Area    Starting Vol      Ending Vol      Cum Inflow     Cum Outflow           Error   Percent Error
+           *******    ************      **********      **********     ***********           *****   *************
+ 
+ 
+         flowarea1                          75116.          75114.                           1.533        0.002041
+
+
+
+                 ***  Total Volume Accounting (for the entire model) in 1000 m^3   ***
+
+Total Boundary Flux of Water In         0.000000
+Total Boundary Flux of Water Out        0.000000
+
+Starting Volume                           75169.
+Ending Volume                             75157.
+
+
+                             Error   Percent Error
+                             *****   *************
+                        -12.004111         0.01598
+
+
+
